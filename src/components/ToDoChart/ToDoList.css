@@ -1,0 +1,40 @@
+.list {
+  display: flex;
+  height: auto;
+  border: 1px solid;
+  box-shadow: 2px 2px 4px 2px rgb(148, 147, 147);
+  align-items: center;
+  margin: 30px;
+  border-radius: 20px;
+}
+
+.list_due {
+  display: flex;
+  height: auto;
+  border: 3px solid yellow;
+  box-shadow: 2px 2px 4px 2px rgb(148, 147, 147);
+  align-items: center;
+  margin: 30px;
+  border-radius: 20px;
+}
+
+.list-desc {
+  padding-left: 30px;
+  width: 800px;
+  font-size: 20px;
+}
+
+.checkbox {
+  padding: 0;
+  margin: 0;
+  box-shadow: none;
+  border: none;
+  width: 80px;
+}
+
+.para {
+  font-style: italic;
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}

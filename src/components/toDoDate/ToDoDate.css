@@ -1,0 +1,11 @@
+.dateBlock {
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+  height: 5rem;
+  width: 100px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  background-color: rgb(200, 166, 233);
+  margin: 10px;
+}
